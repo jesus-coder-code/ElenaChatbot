@@ -1,0 +1,6 @@
+token = 'yaperdiste'
+
+#token permanente
+whatsapp_token = 'EAALRQ7qZChj0BOy7UNnisl9HBMHjT6uSkZChZA7RtzK7RxwkIw8Vxwy2G3mZCnTzryaQHDBIfZB2Xzy8GjTSB8nH4ieyZAWkmq1Van1Fc3SUghbhvh7tivVBJGf76AYdIrAGkJXAxDEsdbbuQ4XTlKKSmpBWEZB31uitlDzuWpOTuK4H1oMfAkOksHEAlIKc86ZC'
+
+whatsapp_url = 'https://graph.facebook.com/v18.0/269005979618327/messages'
